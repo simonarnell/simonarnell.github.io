@@ -20,6 +20,10 @@
     <li>{% include icon-linkedin.html username=site.linkedin_username label='LinkedIn' %}</li>
   {% endif %}
 
+  {% if site.facebook_username %}
+    <li>{% include icon-facebook.html username=site.facebook_username label='Facebook' %}</li>
+  {% endif %}
+
 
   <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
