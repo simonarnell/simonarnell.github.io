@@ -1,1 +1,9 @@
-remote_theme: "mmistakes/jekyll-theme-basically-basic" 
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+lang: en-GB
+title:	The Simon Arnell Exhibit
+description:	A site where I can blog and people can find my CV
+url: https://simonarnell.github.io
+author: Simon Arnell
+logo:	/assets/images/0.jpg
+twitter_username:	simonarnell
+github_username:	simonarnell
