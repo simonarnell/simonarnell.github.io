@@ -1,0 +1,400 @@
+{
+  "basics": {
+    "name": "",
+    "label": "",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "countryCode": "",
+    "region": ""
+  },
+  "profiles": [{
+    "network": "",
+    "username": "",
+    "url": ""
+  }]
+},
+"work": [{
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": []
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": []
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  },
+  {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [],
+    "endDate": ""
+  }
+],
+"education": [{
+    "institution": "",
+    "area": "",
+    "studyType": "",
+    "startDate": "",
+    "gpa": "",
+    "courses": [],
+    "endDate": ""
+  },
+  {
+    "institution": "",
+    "area": "",
+    "studyType": "",
+    "startDate": "",
+    "gpa": "",
+    "courses": [],
+    "endDate": ""
+  }
+],
+"publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  }
+],
+"skills": [{
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "",
+    "level": "",
+    "keywords": []
+  }
+],
+"languages": [{
+    "language": "",
+    "fluency": ""
+  },
+  {
+    "language": "",
+    "fluency": ""
+  }
+],
+"projects": [{
+    "name": "",
+    "startDate": "",
+    "summary": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "startDate": "",
+    "summary": "",
+    "url": "",
+    "endDate": ""
+  },
+  {
+    "name": "",
+    "startDate": "",
+    "summary": "",
+    "url": "",
+    "endDate": ""
+  },
+  {
+    "name": "",
+    "startDate": "",
+    "summary": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "startDate": "",
+    "summary": "",
+    "url": "",
+    "endDate": ""
+  }
+]
+}
