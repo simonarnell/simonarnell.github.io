@@ -7,7 +7,18 @@
       "city": "Fleet",
       "countryCode": "UK",
       "region": "Hampshire"
-    }
+    },
+    "profiles": [{
+        "network": "Twitter",
+        "username": "simonarnell",
+        "url": "https://twitter.com/simonarnell"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "simonarnell",
+        "url": "https://www.linkedin.com/in/simonarnell"
+      }
+    ]
   },
   "work": [{
       "company": "Configured Things",
