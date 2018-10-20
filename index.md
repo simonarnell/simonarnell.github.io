@@ -7,4 +7,4 @@ image: /assets/images/index-bg.jpg
 
 Hi, and welcome to my site, I'm Simon Arnell. I work in the Information Security industry. I am a co-founder of [Configured Things](https://www.configuredthings.com), Trustee and Treasurer of the [Camberley Finnish School](http://www.suomikoulu.org) and gainfully employed at [DXC Technology](https://www.dxc.technology) as their Chief Security Technologist, for more details of my work history, take a look at my [CV](cv.html).
 
-Having only just got into the game of static sites and blogging, I do not know how this will grow as a project, but I look forward with interest. My loves are my family, dogs, solving problems, writing software, hacking around with hardware, cooking and travel.
+My loves are my family, dogs, solving problems, writing software, hacking around with hardware, cooking and travel.
