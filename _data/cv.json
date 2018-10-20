@@ -1,400 +1,231 @@
 {
   "basics": {
-    "name": "Test User",
-    "label": "",
-    "picture": "",
-    "email": "",
-    "phone": "",
-    "website": "",
-    "summary": "",
-    "address": "",
-    "postalCode": "",
-    "city": "",
-    "countryCode": "",
-    "region": ""
+    "name": "Simon Arnell",
+    "summary": "Experienced Chief Technologist with a demonstrated history of working in the information technology and security industries. Strong information security professional skilled in Security Architecture, Risk Management, Strategic Policy Decision Support and Research and Development (R&D).",
+    "location": {
+      "postalCode": "GU52",
+      "city": "Fleet",
+      "countryCode": "UK",
+      "region": "Hampshire"
+    }
   },
-  "profiles": [{
-    "network": "",
-    "username": "",
-    "url": ""
-  }]
-},
-"work": [{
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": []
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": []
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  },
-  {
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "summary": "",
-    "highlights": [],
-    "endDate": ""
-  }
-],
-"education": [{
-    "institution": "",
-    "area": "",
-    "studyType": "",
-    "startDate": "",
-    "gpa": "",
-    "courses": [],
-    "endDate": ""
-  },
-  {
-    "institution": "",
-    "area": "",
-    "studyType": "",
-    "startDate": "",
-    "gpa": "",
-    "courses": [],
-    "endDate": ""
-  }
-],
-"publications": [{
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  }
-],
-"skills": [{
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  },
-  {
-    "name": "",
-    "level": "",
-    "keywords": []
-  }
-],
-"languages": [{
-    "language": "",
-    "fluency": ""
-  },
-  {
-    "language": "",
-    "fluency": ""
-  }
-],
-"projects": [{
-    "name": "",
-    "startDate": "",
-    "summary": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "startDate": "",
-    "summary": "",
-    "url": "",
-    "endDate": ""
-  },
-  {
-    "name": "",
-    "startDate": "",
-    "summary": "",
-    "url": "",
-    "endDate": ""
-  },
-  {
-    "name": "",
-    "startDate": "",
-    "summary": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "startDate": "",
-    "summary": "",
-    "url": "",
-    "endDate": ""
-  }
-]
+  "work": [{
+      "company": "Configured Things",
+      "position": "Founder and Non-Executive Director",
+      "website": "https://www.configuredthings.com",
+      "startDate": "2018-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "DXC Technology",
+      "position": "Chief Technologist",
+      "website": "https://dxc.technology",
+      "startDate": "2017-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "position": "Chief Technologist",
+      "website": "https://www.hpe.com",
+      "startDate": "2015-11-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2017-04-01"
+    },
+    {
+      "company": "HP",
+      "position": "Chief Technologist",
+      "website": "https://www.hp.com",
+      "startDate": "2014-08-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2015-11-01"
+    },
+    {
+      "company": "HP",
+      "position": "Security Analytics Lead",
+      "website": "https://www.hp.com",
+      "startDate": "2010-11-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2014-08-01"
+    },
+    {
+      "company": "National Grid",
+      "position": "Information Security Researcher",
+      "website": "https://www.nationalgrid.com",
+      "startDate": "2010-01-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2010-10-01"
+    },
+    {
+      "company": "Hewlett-Packard Laboratories",
+      "position": "Researcher",
+      "website": "http://www.hpl.hp.com",
+      "startDate": "2008-11-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2010-10-01"
+    },
+    {
+      "company": "Bank of America Merrill Lynch",
+      "position": "Technology Risk Management Research Officer",
+      "website": "https://www.bofaml.com",
+      "startDate": "2008-11-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2009-12-01"
+    },
+    {
+      "company": "Yospace, a Bauer company",
+      "position": "Quality Assurance Engineer",
+      "website": "http://www.yospace.com",
+      "startDate": "2007-05-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2008-10-01"
+    },
+    {
+      "company": "Collingwood College",
+      "position": "IT Support Technician",
+      "website": "https://www.collingwoodcollege.com",
+      "startDate": "2004-05-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2006-09-01"
+    }
+  ],
+  "education": [{
+      "institution": "Royal Holloway - University of London",
+      "area": "Information Security",
+      "studyType": "MSc",
+      "startDate": "2007-01-01",
+      "endDate": "2008-01-01"
+    },
+    {
+      "institution": "Royal Holloway - University of London",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2004-01-01",
+      "endDate": "2007-01-01"
+    }
+  ],
+  "publications": [{
+      "name": "How to overcome the security questions facing blockchain technology",
+      "publisher": "DXC Technology",
+      "releaseDate": "2018-04-01",
+      "website": "https://assets1.dxc.technology/security/downloads/DXC-Security-How_to_overcome_the_security_questions_facing_blockchain_technology.pdf",
+      "summary": "Overcoming security questions about blockchain ecosystems will help ensure that blockchain continues to evolve in the financial services industry and matures into a disruptor in other businesses. This paper identifies security implications and potential threats, and offers 10 recommendations for embedding security into blockchain transactions."
+    },
+    {
+      "name": "10 steps to securing the internet of things",
+      "publisher": "DXC Technology",
+      "releaseDate": "2018-04-01",
+      "website": "http://assets1.dxc.technology/security/downloads/DXC-Security-10_steps_to_securing_the_internet_of_things.pdf",
+      "summary": "Support IoT and digital change with cyber resilience across the enterprise."
+    },
+    {
+      "name": "Take a risk-based approach to DevSecOps",
+      "publisher": "DXC Technology",
+      "releaseDate": "2018-03-01",
+      "website": "http://assets1.dxc.technology/security/downloads/DXC-Take_a_risk-based_approach_to_DevSecOps_paper.pdf",
+      "summary": "Companies embracing digital transformation are looking to DevOps and agile development methods to accelerate the release of new applications. Unfortunately, in this need for speed, security is often left behind. This paper introduces process and language bridges to address the gulf between risk management, development and system operations teams."
+    },
+    {
+      "name": "Cyber Security Predictions for 2018",
+      "publisher": "DXC Technology",
+      "releaseDate": "2018-01-01",
+      "website": "http://assets1.dxc.technology/security/downloads/DXC-10_Cyber_Security_Predictions_for_2018.pdf",
+      "summary": "A report authored with the help of colleagues at DXC, discussing what security risks and technology changes may feature in the year ahead and how to manage their impact to the enterprise."
+    },
+    {
+      "name": "SDN4S: Software Defined Networking for Security",
+      "publisher": "Hewlett Packard Labs",
+      "releaseDate": "2017-01-23",
+      "website": "https://www.labs.hpe.com/publications/HPE-2017-07",
+      "summary": "Security Operations Centers (SOCs) rely on analysts to perform largely manual processes to carry out the various stages of the incident management lifecycle. These processes are time-intensive and typically require much context switching and hand-off between monitoring and operations analysts, introducing considerable delays into the resolution of incidents. With enterprise networks facing malware threats of increasing complexity and volume, this approach becomes unsustainable. It is crucial, therefore, to develop solutions that dependably automate and accelerate incident management tasks and only involve the limited pool of highly-trained and experienced analysts an organization can have at its disposal when truly necessary, where it matters. In this report we introduce SDN4S: a system and solution to minimize the time between incident detection and resolution by using automated countermeasures based on Software-Defined Networking (SDN). SDN4S creates incident-specific response workflows orchestrating actions and network-based countermeasures automatically upon receiving an alert, leading to faster and more predictable incident response. We describe the architecture and implementation of SDN4S, and report on the test deployment of the system on our research network."
+    },
+    {
+      "name": "Protecting the Enterprise using Network Function Virtualisation-based Security Analytics and Remediation",
+      "publisher": "Hewlett Packard Labs",
+      "releaseDate": "2017-01-23",
+      "website": "https://www.labs.hpe.com/publications/HPE-2017-06",
+      "summary": "The threat landscape is constantly evolving, creating new challenges for organizations and the need for continuous investments in security controls and incident management capabilities. A key problem organisations face is how to reduce the incident remediation time, once security issues have been detected, in order to minimize risks, disruption and losses. Central to this challenge is the heavy reliance on proprietary hardware for advanced detection and remediation, which results in high upfront capital expenditure and long lead times in an area where rapid response is critical. We present our vision and technical approach to address this issue, consisting of a Network Function Virtualisation (NFV)-based Security Analytics and Remediation solution, motivated from real-world experiences gathered while working with a large enterprise customer."
+    },
+    {
+      "name": "Awareness is only the first step - A framework for progressive engagement of staff in cyber security",
+      "publisher": "Hewlett Packard Enterprise, University College London (RISCS) and CESG",
+      "releaseDate": "2015-12-16",
+      "website": "http://www.riscs.org.uk/wp-content/uploads/2015/12/Awareness-is-Only-the-First-Step.pdf",
+      "summary": "The business white paper “Awareness is only the first step: A framework for progressive engagement of staff in cyber security” is the product of collaboration between RISCS researchers and security awareness experts at Hewlett Packard Enterprise (HPE), with oversight by the UK government’s National Technical Authority for Information Assurance (CESG).  Security communication, education, and training (CET) is meant to align employee behavior with the security goals of the organization, but it is not always designed in a way that can achieve this. The purpose of this paper is to set out a framework for security awareness that employees will actually engage with, and empower them to become the strongest link—rather than a vulnerability—in defending the organization.  A set of steps, required to deliver effective security CET as a natural part of an organization’s engagement with employees at all levels, is outlined. Depending on different needs, many vehicles are available from security games, quizzes, and brainteasers—and possibly prizes—to encourage employees to test their knowledge and explore in a playful manner. The most important output is that different approaches are needed for routine security tasks, and those tasks require application of existing security skills to new situations. There are many creative ways to improve security behaviors and culture, but it is essential to engage people in the right way. Then they can convert learning into tangible action and new behavior. Security CET needs to be properly resourced and regularly reviewed and updated to achieve lasting behavior change."
+    },
+    {
+      "name": "Cyber Security Predictions - 2016",
+      "publisher": "Hewlett Packard Enterprise",
+      "releaseDate": "2015-10-01",
+      "website": "https://www.hpe.com/h20195/v2/GetPDF.aspx/4AA6-0910EEW.pdf",
+      "summary": ""
+    },
+    {
+      "name": "The role and importance of trust: A study of the conditions that generate and undermine sensitive information sharing",
+      "publisher": "Palgrave Macmillan",
+      "releaseDate": "2015-05-18",
+      "website": "http://www.palgrave-journals.com/sj/journal/vaop/ncurrent/full/sj201513a.htm",
+      "summary": ""
+    },
+    {
+      "name": "Learning from “Shadow Security:” Why Understanding Non-Compliant Behaviors Provides the Basis for Effective Security",
+      "publisher": "Internet Society Useable Security (USEC)",
+      "releaseDate": "2014-02-23",
+      "website": "http://dx.doi.org/10.14722/usec.2014.23007",
+      "summary": ""
+    },
+    {
+      "name": "Protecting data and enabling the mobile enterprise",
+      "publisher": "HP",
+      "releaseDate": "2012-01-01",
+      "website": "http://h20195.www2.hp.com/v2/getpdf.aspx/4aa4-0919eew.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Security Analytics: Risk Analysis for an Organisation's Incident Management Process",
+      "publisher": "HP Labs",
+      "releaseDate": "2012-01-01",
+      "website": "http://www.hpl.hp.com/techreports/2012/HPL-2012-206.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Systematic Decision Making in Security Management Modelling Password Usage and Support",
+      "publisher": "HP Labs",
+      "releaseDate": "2012-01-01",
+      "website": "http://www.hpl.hp.com/techreports/2011/HPL-2011-36.pdf",
+      "summary": "Presented at the International Workshop on Quantitative Aspects in Security Assurance (QASA) 2012"
+    },
+    {
+      "name": "A Stealth Approach to Usable Security: Helping IT Security Managers to Identify Workable Security Solutions",
+      "publisher": "Newcastle University",
+      "releaseDate": "2010-07-01",
+      "website": "http://www.cs.ncl.ac.uk/publications/trs/papers/1209.pdf",
+      "summary": ""
+    },
+    {
+      "name": "The True Cost of Unusable Password Policies: Password Use in the Wild",
+      "publisher": "ACM SIGCHI",
+      "releaseDate": "2010-01-01",
+      "website": "http://dl.acm.org/citation.cfm?id=1753384",
+      "summary": ""
+    }
+  ],
+  "languages": [{
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Finnish",
+      "fluency": "Elementary proficiency"
+    }
+  ]
 }
