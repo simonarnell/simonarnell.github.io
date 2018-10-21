@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Internet of Traffic Lights
+actions:
+  - label: "Learn More"
+    icon: github  # references name of svg icon, see full list below
+    url: "https://www.github.com/simonarnell/trafficLight"
 ---
 
 # Arduino
