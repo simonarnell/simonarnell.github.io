@@ -12,3 +12,5 @@ facebook_username: simon.arnell
 google_analytics: UA-127874216-1
 plugins:
   - jekyll-sitemap
+disqus:
+  shortname: simonarnell-github
