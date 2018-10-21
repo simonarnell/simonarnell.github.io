@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internet of Traffic Lights
+title: The Internet of Traffic Lights
 description: experiment integrating arduino and raspberry pi via i2c to create an Internet of Things Traffic Light
 actions:
   - label: "Learn More"
