@@ -12,17 +12,26 @@ actions:
 
 ## LEDs
 
+![leds](/assets/images/3AE7E898-AF6E-4E14-A198-0306841750C0.svg)
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsimon.arnell%2Fvideos%2F10100452373378930%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ## Relays
+
+![relays](/assets/images/9020114E-B996-4489-9D74-F98206CBF729.svg)
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsimon.arnell%2Fvideos%2F10100452373074540%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ## Relays and LEDs
 
+![relaysLeds](/assets/images/615D8A77-89A6-4A85-8697-9603389A05D5.svg)
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsimon.arnell%2Fvideos%2F10100452372645400%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ## Relays and Mains Lamps
+
+![relaysMains](/assets/images/2DE920C7-F7B5-4625-9707-4B516B0F36C9.svg)
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsimon.arnell%2Fvideos%2F10100452372156380%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 # Raspberry Pi
@@ -33,7 +42,7 @@ actions:
 
 ## Circuit
 
-![demo circuit](/assets/images/EBD3344C-6F21-43FF-94DF-F8C51BEF3993.svg)
+![final circuit](/assets/images/EBD3344C-6F21-43FF-94DF-F8C51BEF3993.svg)
 
 ## Demo
 
