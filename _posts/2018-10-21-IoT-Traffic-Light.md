@@ -21,7 +21,7 @@ I started with learning how to control LEDs using the Arduino, then relays, LEDs
 - Green
 - Amber
 
-The Arduino is as follows:
+The sketch is as follows:
 
 ```c
 enum phases {
