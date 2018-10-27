@@ -4,15 +4,14 @@ title: The Internet of Traffic Lights
 description: experiment integrating arduino and raspberry pi via i2c to create an Internet of Things Traffic Light
 image: /assets/images/775FA044-BF39-4C69-B7AB-18D98EB70461.jpg
 introduction: |
-  This was a fun project I worked on back in 2016, it started with me learning to use the [Arduino](https://www.arduino.cc) micro-controller and quickly developed to an internet-connected [Raspberry Pi](https://www.raspberrypi.org) interfacing to the Arduino over [I2C](https://en.wikipedia.org/wiki/I²C) to control a 230V traffic light via a set of [opto-isolated](https://en.m.wikipedia.org/wiki/Opto-isolator) relays. 
-
   I have broken this post into each of the exploratory steps I took to learn how to use the Arduino and its interfacing with the Pi. I have made this project open-source on GitHub, click below to visit the repo and learn more.
-
 actions:
   - label: "Learn More"
     icon: github  # references name of svg icon, see full list below
     url: "https://www.github.com/simonarnell/trafficLight"
 ---
+
+This was a fun project I worked on back in 2016, it started with me learning to use the [Arduino](https://www.arduino.cc) micro-controller and quickly developed to an internet-connected [Raspberry Pi](https://www.raspberrypi.org) interfacing to the Arduino over [I2C](https://en.wikipedia.org/wiki/I²C) to control a 230V traffic light via a set of [opto-isolated](https://en.m.wikipedia.org/wiki/Opto-isolator) relays. 
 
 # Arduino
 
