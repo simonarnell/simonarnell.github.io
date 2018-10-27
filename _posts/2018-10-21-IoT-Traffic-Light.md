@@ -9,6 +9,7 @@ actions:
   - label: "Learn More"
     icon: github  # references name of svg icon, see full list below
     url: "https://www.github.com/simonarnell/trafficLight"
+read_time: true
 ---
 
 This was a fun project I worked on back in 2016, it started with me learning to use the [Arduino](https://www.arduino.cc) micro-controller and quickly developed to an internet-connected [Raspberry Pi](https://www.raspberrypi.org) interfacing to the Arduino over [I2C](https://en.wikipedia.org/wiki/I²C) to control a 230V traffic light via a set of [opto-isolated](https://en.m.wikipedia.org/wiki/Opto-isolator) relays. 
