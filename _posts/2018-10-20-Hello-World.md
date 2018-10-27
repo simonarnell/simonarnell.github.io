@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World
+image: https://www.nesdis.noaa.gov/sites/default/files/assets/images/dscovr_epic_moontransitfull.gif
 comments: false
 ---
 
