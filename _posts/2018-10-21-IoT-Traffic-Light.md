@@ -14,6 +14,8 @@ I have broken this post into each of the exploratory steps I took to learn how t
 
 # Arduino
 
+The Arduino is a very popular micro-controller that through its integrated development environment provides a very accessible means to get into embedded systems programming. The Arduino Uno board that I have used in this experiment uses 5V TTL signals - for a technical description of what TTL (Transistor-Transistor Logic) means, National Instruments maintains an excellant knowledge base [article](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P9yaSAC).
+
 I started with learning how to control LEDs using the Arduino, then relays, LEDs controlled via relays and finally the 230V lamps of the traffic light. The Arduino sketch for this is pretty simple as it just steps through the four phases of a UK traffic light, consisting of:
 
 - Red
@@ -67,14 +69,22 @@ As you will notice, with an abundance of caution, I retired to the safety of my 
 
 # Raspberry Pi
 
-# Raspberry Pi and Arduino
+The Raspberry Pi is great example of a single board computer, it has enough resources to even run modern operating systems such as Linux or Microsoft's Windows 10, whilst providing General Purpose Input and Output (GPIO) pins for interfacing with hardware. Unlike the Arduino Uno, the Raspberry Pi uses 3.3V CMOS logic.
 
-## Logic levels
+For this part of the project, I wanted to expose a web service running on the Raspberry Pi to the internet. This required writing a web service that provides an interface to remote users to control the traffic light. The received instructions would then be translated into  the intended actions upon on the light by setting outputs to high and low signal levels accordingly.
+
+I opted to create a user interface consisting of the below Scalable Vector Graphics-based traffic light, that when clicked, sent control messages back to a (nodejs)[https://nodejs.org] javascript web service via [socket.io](https://socket.io) web sockets
+
+![ui](/assets/images/4FBA1824-D89C-7BBA-9912-DDA831B91DD4.svg)
 
 ## Circuit
+
+Whilst the Raspberry Pi could quite easily control the traffic light relays with its GPIO, I was interested to experiment with the interfacing of the Raspberry Pi with the Arduino via the I2C bus. Due to the differing signal levels (5V and 3.3V) of the two devices, an additional level shifter component was needed to interface the two.
 
 ![final circuit](/assets/images/EBD3344C-6F21-43FF-94DF-F8C51BEF3993.svg)
 
 ## Demo
+
+I registered the domain putonmyredlight.com, setup an A record to point to my public IP and punched a hole through my firewall for the web traffic to access the service hosted on the Raspberry Pi. I then streamed video of the experiment and announced the url on [Facebook Live](https://live.fb.com) from a mobile device and the below video is the unedited video from the live session. It was great to see people connecting from around the world within seconds of going live to experiment with it.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsimon.arnell%2Fvideos%2F10100517090155990%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>

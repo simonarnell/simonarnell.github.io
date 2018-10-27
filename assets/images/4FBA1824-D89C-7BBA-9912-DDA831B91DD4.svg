@@ -1,0 +1,25 @@
+<svg id='trafficLightSVG' width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <style type="text/css" >
+      <![CDATA[
+      .activeSignal {
+       opacity: 0;
+      }
+      ]]>
+    </style>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#545454" stroke-width="5" x="230" y="60" width="180" height="375" id="svg_1" stroke="#000000"/>
+  <g id="amber_group">
+   <circle fill="#ff7f00" stroke-width="5" cx="320" cy="245" r="42" stroke="#000000" id="amber_base"/>
+   <circle fill="#000000" opacity='0.75' stroke-width="5" cx="320" cy="245" r="42" stroke="#000000" id="amber_overlay"/>
+  </g>
+  <g id="green_group">
+   <circle fill="#00ff00" stroke-width="5" cx="320" cy="360" r="42" stroke="#000000" id="green_base"/>
+   <circle fill="#000000" opacity='0.75' stroke-width="5" cx="320" cy="360" r="42" stroke="#000000" id="green_overlay"/>
+  </g>
+  <g id="red_group">
+   <circle fill="#ff0000" stroke-width="5" cx="320" cy="130" r="42" stroke="#000000" id="red_base"/>
+   <circle fill="#000000" opacity='0.75' stroke-width="5" cx="320" cy="130" r="42" stroke="#000000" id="red_overlay"/>
+  </g>
+ </g>
+</svg>
