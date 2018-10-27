@@ -16,7 +16,7 @@ This was a fun project I worked on back in 2016, it started with me learning to 
 
 # Arduino
 
-The Arduino is a very popular micro-controller that through its integrated development environment provides a very accessible means to get into embedded systems programming. The Arduino Uno board that I have used in this experiment uses 5V TTL signals - for a technical description of what TTL (Transistor-Transistor Logic) means, National Instruments maintains an excellant knowledge base [article](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P9yaSAC).
+The Arduino is a very popular micro-controller that through its integrated development environment provides a very accessible means to get into embedded systems programming. The Arduino Uno board that I have used in this experiment uses 5V TTL signals - for a technical description of what TTL (Transistor-Transistor Logic) means, National Instruments maintains an excellent knowledge base [article](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P9yaSAC).
 
 I started with learning how to control LEDs using the Arduino, then relays, LEDs controlled via relays and finally the 230V lamps of the traffic light. The Arduino sketch for this is pretty simple as it just steps through the four phases of a UK traffic light, consisting of:
 
@@ -63,7 +63,7 @@ The next experiment was to replace the LEDs and their _safe_ 5V DC supply with t
 
 ![relaysMains](/assets/images/2DE920C7-F7B5-4625-9707-4B516B0F36C9.svg)
 
-** DISCLAIMER Experiment with mains voltage at your own risk.**
+**_DISCLAIMER_ Experiment with mains voltage at your own risk**
 
 As you will notice, with an abundance of caution, I retired to the safety of my garden when I attempted this experiment, with the setup connected to a residual current device, just in case I or someone else acted as a return path for the current.
 
