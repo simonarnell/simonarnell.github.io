@@ -14,7 +14,7 @@ I have broken this post into each of the exploratory steps I took to learn how t
 
 # Arduino
 
-I started with learning how to control LEDs using the Arduino, then relays, LEDs controlled via relays and finally the 230V lamps of the traffic light. The Arduino sketch for this is pretty simple as it just steps through the four phases of UK traffic light, consisting of:
+I started with learning how to control LEDs using the Arduino, then relays, LEDs controlled via relays and finally the 230V lamps of the traffic light. The Arduino sketch for this is pretty simple as it just steps through the four phases of a UK traffic light, consisting of:
 
 - Red
 - Red, Amber
