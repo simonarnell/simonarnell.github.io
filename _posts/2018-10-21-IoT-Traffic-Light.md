@@ -87,6 +87,6 @@ Whilst the Raspberry Pi could quite easily control the traffic light relays with
 
 ## Demo
 
-I registered the domain putonmyredlight.com, setup an A record to point to my public IP and punched a hole through my firewall for the web traffic to access the service hosted on the Raspberry Pi. I then streamed video of the experiment and announced the url on [Facebook Live](https://live.fb.com) from a mobile device and the below video is the unedited video from the live session. It was great to see people connecting from around the world within seconds of going live to experiment with it.
+I registered the domain [putonmyredlight.com](https://putonmyredlight.com), setup an A record to point to my public IP and punched a hole through my firewall for the web traffic to access the service hosted on the Raspberry Pi. I then streamed video of the experiment and announced the url on [Facebook Live](https://live.fb.com) from a mobile device and the below video is the unedited video from the live session. It was great to see people connecting from around the world within seconds of going live to experiment with it.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsimon.arnell%2Fvideos%2F10100517090155990%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
