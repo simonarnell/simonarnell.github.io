@@ -12,7 +12,7 @@ actions:
 read_time: true
 ---
 
-This was a fun project I worked on back in 2016, it started with me learning to use the [Arduino](https://www.arduino.cc) micro-controller and quickly developed to an internet-connected [Raspberry Pi](https://www.raspberrypi.org) interfacing to the Arduino over [I2C](https://en.wikipedia.org/wiki/I²C) to control a 230V traffic light via a set of [opto-isolated](https://en.m.wikipedia.org/wiki/Opto-isolator) relays. 
+This was a fun project I worked on back in 2016, it started with me learning to use the [Arduino](https://www.arduino.cc) micro-controller and quickly developed to an internet-connected [Raspberry Pi](https://www.raspberrypi.org) interfacing to the Arduino over [I2C](https://en.wikipedia.org/wiki/I²C) to control a 230V traffic light via a set of [opto-isolated](https://en.m.wikipedia.org/wiki/Opto-isolator) relays.
 
 # Arduino
 
@@ -41,7 +41,7 @@ Below is a video of the LED traffic light circuit working:
 
 ## Relays
 
-The following circuit diagrams replaces the LED and resistor output of the previous with relays. 
+The following circuit diagrams replaces the LED and resistor output of the previous with relays.
 
 ![relays](/assets/images/9020114E-B996-4489-9D74-F98206CBF729.svg)
 
@@ -59,11 +59,11 @@ The next circuit reintroduces the LEDs and resistors of the first circuit, but t
 
 ## Relays and Mains Lamps
 
-The next experiment was to replace the LEDs and their _safe_ 5V DC supply with the traffic light and its 230V AC supply. N.B. Within the traffic light I discovered three 230V to 12V step-down transformers, these allow the light to operate using 12V halogen bulbs. 
+The next experiment was to replace the LEDs and their _safe_ 5V DC supply with the traffic light and its 230V AC supply. N.B. Within the traffic light I discovered three 230V to 12V step-down transformers, these allow the light to operate using 12V halogen bulbs.
 
 ![relaysMains](/assets/images/2DE920C7-F7B5-4625-9707-4B516B0F36C9.svg)
 
-** DISCLAIMER Experiment with mains voltage at your own risk.** 
+** DISCLAIMER Experiment with mains voltage at your own risk.**
 
 As you will notice, with an abundance of caution, I retired to the safety of my garden when I attempted this experiment, with the setup connected to a residual current device, just in case I or someone else acted as a return path for the current.
 
@@ -75,7 +75,7 @@ The Raspberry Pi is great example of a single board computer, it has enough reso
 
 For this part of the project, I wanted to expose a web service running on the Raspberry Pi to the internet. This required writing a web service that provides an interface to remote users to control the traffic light. The received instructions would then be translated into  the intended actions upon on the light by setting outputs to high and low signal levels accordingly.
 
-I opted to create a user interface consisting of the below Scalable Vector Graphics-based traffic light, that when clicked, sent control messages back to a (nodejs)[https://nodejs.org] javascript web service via [socket.io](https://socket.io) web sockets
+I opted to create a user interface consisting of the below Scalable Vector Graphics-based traffic light, that when clicked, sent control messages back to a [nodejs](https://nodejs.org) javascript web service via [socket.io](https://socket.io) web sockets
 
 ![ui](/assets/images/4FBA1824-D89C-7BBA-9912-DDA831B91DD4.svg)
 
