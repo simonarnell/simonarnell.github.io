@@ -267,5 +267,29 @@
         "url": "https://www.hpe.com/"
       },
       "applicationDate": "2016-04-21"
+    },
+    {
+      "name": "COLLECTING DOMAIN NAME SYSTEM TRAFFIC",
+      "reference": "PCT/US2015/047691",
+      "description": "Examples relate to collecting domain name system traffic. In one example, a computing device may: receive, from a first intermediary network device, a DNS query packet that was sent by a client computing device operating on a private network, the DNS query packet specifying i) a query domain name, and ii) a source address that specifies the client computing device; store, in a data storage device, a query record specifying the query domain name and the source address specified by the DNS query packet; receive, from a second intermediary network device, a DNS response packet; determine that the DNS response packet specifies a response domain name that matches the query domain name; in response to the determination, extract, from the DNS response packet, a resolved address that corresponds to the response domain name; and store, in the query record, the resolved address specified by the DNS response packet.",
+      "source": {
+        "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=US215888559"
+      },
+      "type": "patent",
+      "co-inventors": [{
+          "name" : "Marco Casassa Mont",
+          "url": "https://www.linkedin.com/in/marcocasassamont",
+          "label": "LinkedIn"
+      },
+      {
+          "name" : "Yolanta Beresna",
+          "url": "https://www.linkedin.com/in/yolanta-beresna-6166502",
+          "label": "LinkedIn"
+      }],
+      "assignee": {
+        "name": "Hewlett-Packard Development Company",
+        "url": "https://www.hp.com/"
+      },
+      "applicationDate": "2015-08-31"
     }]
 }
