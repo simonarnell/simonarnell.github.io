@@ -238,5 +238,34 @@
       "language": "Finnish",
       "fluency": "Elementary proficiency"
     }
-  ]
+  ],
+  "legal": [{
+      "name": "DETERMINING A PERSISTENT NETWORK IDENTITY OF A NETWORKED DEVICE",
+      "reference": "PCT/US2016/028563",
+      "description": "The present disclosure relates to a network device that determines a persistent network identity for a networked device. Specifically, the network device receives a service request that includes an identifier for a second network device in a sub-network among a plurality of sub-networks. The identifier uniquely corresponds to the second network device during a limited period of time. At least one sub-networks are unreachable by the service request. The network device aggregates partial networked device profiles corresponding to the second network device received from other network devices in at least the at least one sub-networks to generate a networked device profile. Moreover, the network device searches at least one caches to obtain the networked device profile based on the identifier in the service request, and correlates the identifier to a persistent network identity corresponding to the second network device based on the networked device profile.",
+      "source": {
+        "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017184139"
+      },
+      "type": "patent",
+      "co-inventors": [{
+          "name" : "Marco Casassa Mont",
+          "url": "https://www.linkedin.com/in/marcocasassamont",
+          "label": "LinkedIn"
+      },
+      {
+          "name" : "Yolanta Beresna",
+          "url": "https://www.linkedin.com/in/yolanta-beresna-6166502",
+          "label": "LinkedIn"
+      },
+      {
+          "name" : "Nipun Balan Thekkummal",
+          "url": "https://www.linkedin.com/in/nipunbalan",
+          "label": "LinkedIn"
+      }],
+      "assignee": {
+        "name": "Hewlett-Packard Enterprise Development Company",
+        "url": "https://www.hpe.com/"
+      },
+      "applicationDate": "2016-04-21"
+    }]
 }
