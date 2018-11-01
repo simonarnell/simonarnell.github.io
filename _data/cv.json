@@ -388,6 +388,25 @@
         "url": "https://www.hp.com/"
       },
       "applicationDate": "2015-03-11"
+    },
+    {
+      "name": "REMEDIATING A SECURITY THREAT TO A NETWORK",
+      "reference": "PCT/US2014/049152",
+      "description": "Remediating a security threat to a network includes obtaining, from a network, security information about the network to determine traffic patterns of the network, identifying, based on the traffic patterns of the network, a security threat to the network, determining, from a playbook library and a workflow library, a workflow template and at least one software-defined networking (SDN) flow rule template to remediate the security threat, and deploying, via a SDN controller, a SDN flow rule based on the at least one SDN flow rule template in the network to remediate the security threat by altering a control path of the network.",
+      "source": {
+        "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016018369"
+      },
+      "type": "patent",
+      "co-inventors": [{
+        "name": "Marco Casassa Mont",
+        "url": "https://www.linkedin.com/in/marcocasassamont",
+        "label": "LinkedIn"
+      }],
+      "assignee": {
+        "name": "Hewlett-Packard Development Company",
+        "url": "https://www.hp.com/"
+      },
+      "applicationDate": "2014-07-31"
     }
   ]
 }
