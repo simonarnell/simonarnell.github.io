@@ -407,6 +407,31 @@
         "url": "https://www.hp.com/"
       },
       "applicationDate": "2014-07-31"
+    },
+    {
+      "name": "CREATING A SECURITY REPORT FOR A CUSTOMER NETWORK",
+      "reference": "PCT/US2014/049191",
+      "description": "Creating a security report for a customer network includes obtaining from a customer network, security information about the customer network, preparing, based on modification rules, the security information to create modified security information, analyzing, based on big data threat analytics, the security threats to create a number of metrics, refining the number of metrics using a refining model, creating, based on the refined number of metrics used as an input for model-based predictive analytics and the security threats, a security report representing security intelligence for the customer network in which the number of metrics are refined by a refining model and used as an input for the model-based predictive analytics.",
+      "source": {
+        "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016018382"
+      },
+      "type": "patent",
+      "co-inventors": [{
+          "name": "Marco Casassa Mont",
+          "url": "https://www.linkedin.com/in/marcocasassamont",
+          "label": "LinkedIn"
+        },
+        {
+          "name": "Neil Passingham",
+          "url": "https://www.linkedin.com/in/gardpasscybernp/",
+          "label": "LinkedIn"
+        }
+      ],
+      "assignee": {
+        "name": "Hewlett-Packard Development Company",
+        "url": "https://www.hp.com/"
+      },
+      "applicationDate": "2014-07-31"
     }
   ]
 }
