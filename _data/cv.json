@@ -248,20 +248,21 @@
       },
       "type": "patent",
       "co-inventors": [{
-          "name" : "Marco Casassa Mont",
+          "name": "Marco Casassa Mont",
           "url": "https://www.linkedin.com/in/marcocasassamont",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Yolanta Beresna",
+        },
+        {
+          "name": "Yolanta Beresna",
           "url": "https://www.linkedin.com/in/yolanta-beresna-6166502",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Nipun Balan Thekkummal",
+        },
+        {
+          "name": "Nipun Balan Thekkummal",
           "url": "https://www.linkedin.com/in/nipunbalan",
           "label": "LinkedIn"
-      }],
+        }
+      ],
       "assignee": {
         "name": "Hewlett-Packard Enterprise Development Company",
         "url": "https://www.hpe.com/"
@@ -277,15 +278,16 @@
       },
       "type": "patent",
       "co-inventors": [{
-          "name" : "Marco Casassa Mont",
+          "name": "Marco Casassa Mont",
           "url": "https://www.linkedin.com/in/marcocasassamont",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Yolanta Beresna",
+        },
+        {
+          "name": "Yolanta Beresna",
           "url": "https://www.linkedin.com/in/yolanta-beresna-6166502",
           "label": "LinkedIn"
-      }],
+        }
+      ],
       "assignee": {
         "name": "Hewlett-Packard Development Company",
         "url": "https://www.hp.com/"
@@ -301,25 +303,26 @@
       },
       "type": "patent",
       "co-inventors": [{
-          "name" : "Marco Casassa Mont",
+          "name": "Marco Casassa Mont",
           "url": "https://www.linkedin.com/in/marcocasassamont",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Yolanta Beresna",
+        },
+        {
+          "name": "Yolanta Beresna",
           "url": "https://www.linkedin.com/in/yolanta-beresna-6166502",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Jon Potter",
+        },
+        {
+          "name": "Jon Potter",
           "url": "https://www.linkedin.com/in/jon-potter-1a35003",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Theo Koulouris",
+        },
+        {
+          "name": "Theo Koulouris",
           "url": "https://www.linkedin.com/in/theo-koulouris",
           "label": "LinkedIn"
-      }],
+        }
+      ],
       "assignee": {
         "name": "Hewlett-Packard Development Company",
         "url": "https://www.hp.com/"
@@ -335,29 +338,31 @@
       },
       "type": "patent",
       "co-inventors": [{
-          "name" : "Marco Casassa Mont",
+          "name": "Marco Casassa Mont",
           "url": "https://www.linkedin.com/in/marcocasassamont",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Ed Reynolds",
+        },
+        {
+          "name": "Ed Reynolds",
           "url": "https://www.linkedin.com/in/ed-reynolds-98983",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Dave Graves",
+        },
+        {
+          "name": "Dave Graves",
           "url": "https://www.linkedin.com/in/davidgraves3",
           "label": "LinkedIn"
-      },
-      {
-          "name" : "Niall Saunders",
+        },
+        {
+          "name": "Niall Saunders",
           "url": "https://www.linkedin.com/in/niallsaunders",
           "label": "LinkedIn"
-      }],
+        }
+      ],
       "assignee": {
         "name": "Hewlett-Packard Development Company",
         "url": "https://www.hp.com/"
       },
       "applicationDate": "2015-04-10"
-    }]
+    }
+  ]
 }
