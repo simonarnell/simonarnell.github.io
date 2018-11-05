@@ -3,7 +3,16 @@ lang: en-GB
 title:	The Simon Arnell Exhibit
 description:	A site where I can blog and people can find my CV
 url: https://simonarnell.github.io
-author: Simon Arnell
+author:
+  name: Simon Arnell
+  twitter: simonarnell
+social:
+  name: Simon Arnell
+  links:
+    - https://twitter.com/simonarnell
+    - https://www.facebook.com/simon.arnell
+    - https://www.linkedin.com/in/simonarnell
+    - https://github.com/simonarnell
 logo:	/assets/images/0.jpg
 twitter_username:	simonarnell
 github_username:	simonarnell
@@ -13,5 +22,6 @@ google_analytics: UA-127874216-1
 plugins:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 disqus:
   shortname: simonarnell-github
