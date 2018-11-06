@@ -126,7 +126,16 @@
       "area": "Computer Science",
       "studyType": "BSc",
       "startDate": "2004-01-01",
-      "endDate": "2007-01-01"
+      "endDate": "2007-01-01",
+      "courses": ["Logical Foundation for Computer Science and Artificial Intelligence",
+        "Introduction to Programming and Professional Issues", "Computer Engineering",
+        "Web and Internet Technologies", "Theory of Computer Languages and Infinite Structures",
+        "C++ for Java Programmers", "Graphics and Human Computer Interface",
+        "Algorithms and Complexity", "Bioinformatics", "Operating Systems",
+        "Compilers and Code Generation", "Advanced Data Communications",
+        "Information Security", "Computational Finance", "Software Engineering Group Project",
+        "Database Theory", "Object Orientated Software Engineering"
+      ]
     }
   ],
   "publications": [{
