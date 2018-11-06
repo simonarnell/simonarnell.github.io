@@ -447,5 +447,19 @@
       },
       "applicationDate": "2014-07-31"
     }
+  ],
+  "volunteer": [{
+      "organization": "Camberley Finnish School",
+      "position": "Treasurer",
+      "website": "http://www.suomikoulu.org",
+      "startDate": "2017-09-01"
+    },
+    {
+      "organization": "Camberley Finnish School",
+      "position": "Secretary",
+      "website": "http://www.suomikoulu.org",
+      "startDate": "2016-09-01",
+      "endDate": "2017-09-01"
+    }
   ]
 }
