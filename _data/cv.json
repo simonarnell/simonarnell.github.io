@@ -114,7 +114,12 @@
       "area": "Information Security",
       "studyType": "MSc",
       "startDate": "2007-01-01",
-      "endDate": "2008-01-01"
+      "endDate": "2008-01-01",
+      "courses": [
+        "Security Management", "Introduction to Cryptography and Security Mechanisms",
+        "Network Security", "Computer Security (Operating Systems)", "Advanced Cryptography",
+        "Smart Cards/Tokens Security and Applications", "Software Security", "Trusted Computing"
+      ]
     },
     {
       "institution": "Royal Holloway, University of London",
