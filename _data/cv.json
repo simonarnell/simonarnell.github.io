@@ -25,6 +25,7 @@
       "position": "Founder and Non-Executive Director",
       "website": "https://www.configuredthings.com",
       "startDate": "2018-01-01",
+      "endDate": "",
       "summary": "",
       "highlights": []
     },
@@ -33,6 +34,7 @@
       "position": "Chief Technologist",
       "website": "https://dxc.technology",
       "startDate": "2017-04-01",
+      "endDate": "",
       "summary": "",
       "highlights": []
     },
@@ -452,7 +454,8 @@
       "organization": "Camberley Finnish School",
       "position": "Treasurer",
       "website": "http://www.suomikoulu.org",
-      "startDate": "2017-09-01"
+      "startDate": "2017-09-01",
+      "endDate": ""
     },
     {
       "organization": "Camberley Finnish School",
