@@ -110,14 +110,14 @@
     }
   ],
   "education": [{
-      "institution": "Royal Holloway - University of London",
+      "institution": "Royal Holloway, University of London",
       "area": "Information Security",
       "studyType": "MSc",
       "startDate": "2007-01-01",
       "endDate": "2008-01-01"
     },
     {
-      "institution": "Royal Holloway - University of London",
+      "institution": "Royal Holloway, University of London",
       "area": "Computer Science",
       "studyType": "BSc",
       "startDate": "2004-01-01",
