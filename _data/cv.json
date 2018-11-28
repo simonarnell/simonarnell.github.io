@@ -3,7 +3,6 @@
     "name": "Simon Arnell",
     "summary": "Experienced Chief Technologist with a demonstrated history of working in the information technology and security industries. Strong information security professional skilled in Security Architecture, Risk Management, Strategic Policy Decision Support and Research and Development (R&D).",
     "location": {
-      "postalCode": "GU52",
       "city": "Fleet",
       "countryCode": "UK",
       "region": "Hampshire"
@@ -17,6 +16,21 @@
         "network": "LinkedIn",
         "username": "simonarnell",
         "url": "https://www.linkedin.com/in/simonarnell"
+      },
+      {
+        "network": "Facebook",
+        "username": "simon.arnell",
+        "url": "https://www.facebook.com/simon.arnell"
+      },
+      {
+        "network": "GitHub",
+        "username": "simonarnell",
+        "url": "https://www.github.com/simonarnell"
+      },
+      {
+        "network": "Crunchbase",
+        "username": "simon-arnell",
+        "url": "https://www.crunchbase.com/person/simon-arnell"
       }
     ]
   },
@@ -24,9 +38,9 @@
       "company": "Configured Things",
       "position": "Founder and Non-Executive Director",
       "website": "https://configuredthings.com",
-      "startDate": "2018-01-01",
+      "startDate": "2018-01-16",
       "endDate": "",
-      "summary": "",
+      "summary": "I am a co-founder and non-executive director at Configured Things, a member of the 2018 GCHQ/NCSC Cyber Accelerator",
       "highlights": []
     },
     {
@@ -35,7 +49,11 @@
       "website": "https://dxc.technology",
       "startDate": "2017-04-01",
       "endDate": "",
-      "summary": "",
+      "summary": "Following HPE Enterprise Services' 2017 spin-merge with CSC, my employer changed once again, it  became DXC Technology. I was initially responsible for mapping the various partnering relationships the legacy organisations maintained and understanding what was necessary for the new organisation. In this capacity I owned the New Technology Overview program, a horizon scanning service that reflected the shifting needs of the market and proposed partnerships that would allow DXC to capitalise on these changes, whilst match-making potential partners with salespeople with particular requirements.
+      
+      I have authored many papers and spoken at a number of conferences at DXC to build out our market presence and I am responsible for our annual cyber security predictions report, a risk management level perspective with suggested mitigations for how to safely navigate one's business through a changing threat landscape.
+      
+      In this role I am a frequent lecturer on the UK Ministry of Defence's Cyber Operations Awareness (Core) Course (COACC) taught at the Defence Academy in Shrivenham",
       "highlights": []
     },
     {
@@ -43,7 +61,9 @@
       "position": "Chief Technologist",
       "website": "https://www.hpe.com",
       "startDate": "2015-11-01",
-      "summary": "",
+      "summary": "Due to the HP Inc. and Hewlett-Packard Enterprise split, my employer changed, however I continued to commercialise the DNS Analytics intellectual property. I ran two customer proofs of concept to test the solution in the real-world. I selected a Nordic telecoms equipment manufacturer and a Nordic nuclear power operator to pilot the technology and architect the solution around. This proved to be a great success as a detective control and was publicly unveiled at HP Protect '15.
+      
+      Having introduced a means of detection that could dramatically shift the mean time to detect an incident with the DNS analytics technology, I began to appreciate this was moot, as the response times were still dire, customers did not have the means to orchestrate and reconfigure their estates dynamically in response to a security incident. This is where my work on Software Defined Networking for Security and Network Security Function Virtualization began. I co-developed IP to rapidly respond to incidents with investigative and preventative measures from the network using OpenFlow, this was successfully prototyped on the HP Labs network to react to anomalous activity",
       "highlights": [],
       "endDate": "2017-04-01"
     },
@@ -52,7 +72,9 @@
       "position": "Chief Technologist",
       "website": "https://www.hp.com",
       "startDate": "2014-08-01",
-      "summary": "",
+      "summary": "I was responsible for presenting the company's strategy and services to customers who visited our London and Bristol Customer Engagement Centres. 
+      
+      I began to sponsor the commercialisation of a research project that was monitoring HP's internal network for anomalous Domain Name System (DNS) traffic, identifying misconfigured and compromised devices. I expanded the monitoring from the internal network onto HP's public cloud allowing it to rapidly detect compromised tenants, personally porting the architecutre from the original one gigabit per second based design and scaling to the ten gigabit per second requirement of our public cloud, requiring me to rewrite the C++ Field Programmable Gate Array-based software to cope with the dramatic hardware changes necessary to monitor a public cloud",
       "highlights": [],
       "endDate": "2015-11-01"
     },
@@ -61,7 +83,11 @@
       "position": "Security Analytics Lead",
       "website": "https://www.hp.com",
       "startDate": "2010-11-01",
-      "summary": "",
+      "summary": "Having developed intellectual property during my time in HP Labs, I transfered myself and the technology into the security business unit to understand how it could be applied to the business. Using corporate R&D funding I sponsored a project with our Brazil team to scale and build a management framework around the modelling tooling, this allowed our Managed Security Service to perform proofs of concept of collecting data from the customer estates and providing them with a proactive and benchmarked risk assessment with respect to their Identity and Access Management and Vulnerability and Threat Management processes.
+      
+      This role also allowed me to act as a conduit to identify and transfer technology developed in our corprorate research labs into the security business. 
+      
+      I also architected and piloted HP's Cloud Risk and Controls Assessment, a set of tools built around the Cloud Security Alliance's Cloud Control Matrix and an internal risk assesment to provide customers with an impact analysis of their planned cloud migrations",
       "highlights": [],
       "endDate": "2014-08-01"
     },
@@ -70,16 +96,7 @@
       "position": "Information Security Researcher",
       "website": "https://www.nationalgrid.com",
       "startDate": "2010-01-01",
-      "summary": "",
-      "highlights": [],
-      "endDate": "2010-10-01"
-    },
-    {
-      "company": "Hewlett-Packard Laboratories",
-      "position": "Researcher",
-      "website": "http://www.hpl.hp.com",
-      "startDate": "2008-11-01",
-      "summary": "",
+      "summary": "I was seconded to National Grid to understand the threats in the Operational Technology environments, exploring the potential mitigations of virtual machines on trusted platforms to improve overall systems security with respect to security and staff productivity, in addition the impact of password policies was assesed and reported on. I was based at the National Electricity Control site and performed extensive field work with University College London consisting of staff interviews at the National Gas Control site, UK Headquarters and US Headquarters.",
       "highlights": [],
       "endDate": "2010-10-01"
     },
@@ -88,16 +105,27 @@
       "position": "Technology Risk Management Research Officer",
       "website": "https://www.bofaml.com",
       "startDate": "2008-11-01",
-      "summary": "",
+      "summary": "I was seconded to Merrill Lynch to research the applicability and potential impact of Digital Rights Mangagment to the bank's security, costs and productivity. As part of this project I also facilitated and conducted interviews with the bank's staff and University College London to understand the socio-technical issues of the science of security.  
+      
+      Beyond the Trust Economics project, I also assisted the bank with governence, risk and compliance exercises such as performing a policy gap anaylsis during its merger of Merrill Lynch with Bank of America, developing a Secure Development Lifecycle and consulting the line of business' technical teams to assist with security concerns.",
       "highlights": [],
       "endDate": "2009-12-01"
+    },
+    {
+      "company": "Hewlett-Packard Laboratories",
+      "position": "Researcher",
+      "website": "http://www.hpl.hp.com",
+      "startDate": "2008-11-01",
+      "summary": "I worked in the Systems Security Lab in HP Labs Bristol as a post-doc researcher. As part of the UK government-funded Trust Economics project, the role saw me seconded to Bank of America Merrill Lynch and National Grid, developing discrete event simulations of stochastic systems' security models to statistically analyse the impact of threats, people, process and technology on an organistion's security to improve strategic decision-making",
+      "highlights": [],
+      "endDate": "2010-10-01"
     },
     {
       "company": "Yospace, a Bauer company",
       "position": "Quality Assurance Engineer",
       "website": "http://www.yospace.com",
       "startDate": "2007-05-01",
-      "summary": "",
+      "summary": "A summer internship at a user-generated content startup as a Quality Assurance Engineer that became a part-time role during my post-graduate studies. I was the sole quality assurance resource, responsible for ensuring quality of the user-generated content platform prodvided to major operators such as Three, O2, Vodafone. Yospace adopted agile methods and so I would attend the daily scrum meetings to understand project direction and escalate bugs. To improve effiency I implmented Bugzilla for issue tracking and CruiseControl for continuous integration. I devised an application of AI classifier to reduce the cost to the business of moderating users' comments on other users' content"
       "highlights": [],
       "endDate": "2008-10-01"
     },
@@ -106,7 +134,7 @@
       "position": "IT Support Technician",
       "website": "https://www.collingwoodcollege.com",
       "startDate": "2004-05-01",
-      "summary": "",
+      "summary": "A part-time role during my undergraduate studies. I supported a small campus network of approximately one thousand endpoints and two and a half thousand users. Due to a new college building being built a data centre migration was performed alongside transitions of Windows Server and Exchange 2000 to 2003. I was responsible for architecting and buildout of the desktop OS deployment solution, architecting a proposed 802.11g Wi-Fi deployment using 802.1x authentication of endpoints, and a Windows Active Directory consolidation project to support and manage the local feeder schools' IT.",
       "highlights": [],
       "endDate": "2006-09-01"
     }
