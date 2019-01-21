@@ -169,6 +169,13 @@
     }
   ],
   "publications": [{
+      "name": "Rethink risk and enterprise security in a digital world",
+      "publisher": "DXC Technology",
+      "releaseDate": "2019-01-01",
+      "website": "http://assets1.dxc.technology/digital_transformation/downloads/DXCDigitalDirections_Security.pdf",
+      "summary": "Digital transformation promises to deliver new business value but also introduces new security risks that demand equally new and innovative responses. Organizations on a digital transformation journey must make a parallel trip, one that integrates security and risk management into DevOps and Continuous Delivery (CD) processes."
+    },
+    {
       "name": "Top 10 security trends for 2019",
       "publisher": "DXC Technology",
       "releaseDate": "2018-12-01",
