@@ -169,6 +169,13 @@
     }
   ],
   "publications": [{
+      "name": "Secure Digital Transformation - Principles for Enterprise Defense",
+      "publisher": "DXC Technology",
+      "releaseDate": "2019-05-28",
+      "website": "https://assets1.dxc.technology/security/downloads/DXC-Secure_Digital_Transformation_Principles_for_Enterprise_Defense_paper.pdf",
+      "summary": "This white paper provides a set of succinct and simplified high- level architectural principles designed for executive consumption. Applying these principles will allow executives to build digital resilience into the fabric of their enterprise, ensuring they can gain all of the advantages of the digital age while minimizing associated risks."
+    },
+    {
       "name": "Rethink risk and enterprise security in a digital world",
       "publisher": "DXC Technology",
       "releaseDate": "2019-01-01",
