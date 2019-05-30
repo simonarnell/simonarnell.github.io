@@ -243,7 +243,28 @@
       "publisher": "DXC Technology",
       "releaseDate": "2018-04-01",
       "website": "http://assets1.dxc.technology/security/downloads/DXC-Security-10_steps_to_securing_the_internet_of_things.pdf",
-      "summary": "Support IoT and digital change with cyber resilience across the enterprise."
+      "summary": "Support IoT and digital change with cyber resilience across the enterprise.",
+      "coauthors": [{
+          "name": "Luciano Manfredi",
+          "url": "https://www.linkedin.com/in/luciano-manfredi-334479/",
+          "label": "LinkedIn"
+        },
+        {
+            "name": "Lukas Hatala",
+            "url": "https://www.linkedin.com/in/lukas-hatala-7ab23355/",
+            "label": "LinkedIn"
+        },
+        {
+            "name": "Rhodri Davies",
+            "url": "https://www.linkedin.com/in/rhoddavies/",
+            "label": "LinkedIn"
+        },
+        {
+            "name": "Jeremy Ward",
+            "url": "https://www.linkedin.com/in/drjeremyward/",
+            "label": "LinkedIn"
+        }
+      ]
     },
     {
       "name": "Take a risk-based approach to DevSecOps",
