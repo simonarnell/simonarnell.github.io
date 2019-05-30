@@ -207,7 +207,13 @@
       "publisher": "DXC Technology",
       "releaseDate": "2018-12-01",
       "website": "https://assets1.dxc.technology/security/downloads/DXC-Top_10_security_trends_for_2019_report.pdf",
-      "summary": "A report authored with the help of colleagues at DXC, discussing what security risks and technology changes may feature in the year ahead and how to manage their impact to the enterprise."
+      "summary": "A report authored with the help of colleagues at DXC, discussing what security risks and technology changes may feature in the year ahead and how to manage their impact to the enterprise.",
+      "coauthors": [{
+          "name": "Craig Jarvis",
+          "url": "https://www.linkedin.com/in/craig-jarvis-283013126/",
+          "label": "LinkedIn"
+        }
+      ]
     },
     {
       "name": "How to overcome the security questions facing blockchain technology",
