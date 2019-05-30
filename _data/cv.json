@@ -191,7 +191,16 @@
       "publisher": "DXC Technology",
       "releaseDate": "2019-01-01",
       "website": "http://assets1.dxc.technology/digital_transformation/downloads/DXCDigitalDirections_Security.pdf",
-      "summary": "Digital transformation promises to deliver new business value but also introduces new security risks that demand equally new and innovative responses. Organizations on a digital transformation journey must make a parallel trip, one that integrates security and risk management into DevOps and Continuous Delivery (CD) processes."
+      "summary": "Digital transformation promises to deliver new business value but also introduces new security risks that demand equally new and innovative responses. Organizations on a digital transformation journey must make a parallel trip, one that integrates security and risk management into DevOps and Continuous Delivery (CD) processes.",
+      "coauthors": [{
+          "name": "Craig Jarvis",
+          "url": "https://www.linkedin.com/in/craig-jarvis-283013126/",
+          "label": "LinkedIn"
+        },
+        {
+          "name": "TM Ching"
+        }
+      ]
     },
     {
       "name": "Top 10 security trends for 2019",
