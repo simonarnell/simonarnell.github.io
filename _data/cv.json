@@ -271,7 +271,12 @@
       "publisher": "DXC Technology",
       "releaseDate": "2018-03-01",
       "website": "http://assets1.dxc.technology/security/downloads/DXC-Take_a_risk-based_approach_to_DevSecOps_paper.pdf",
-      "summary": "Companies embracing digital transformation are looking to DevOps and agile development methods to accelerate the release of new applications. Unfortunately, in this need for speed, security is often left behind. This paper introduces process and language bridges to address the gulf between risk management, development and system operations teams."
+      "summary": "Companies embracing digital transformation are looking to DevOps and agile development methods to accelerate the release of new applications. Unfortunately, in this need for speed, security is often left behind. This paper introduces process and language bridges to address the gulf between risk management, development and system operations teams.",
+      "coauthors": [{
+        "name": "John Diamant",
+        "url": "https://www.linkedin.com/in/johndiamant/",
+        "label": "LinkedIn"
+      }]
     },
     {
       "name": "Cyber Security Predictions for 2018",
