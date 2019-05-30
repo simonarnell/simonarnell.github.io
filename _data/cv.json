@@ -220,7 +220,23 @@
       "publisher": "DXC Technology",
       "releaseDate": "2018-04-01",
       "website": "https://assets1.dxc.technology/security/downloads/DXC-Security-How_to_overcome_the_security_questions_facing_blockchain_technology.pdf",
-      "summary": "Overcoming security questions about blockchain ecosystems will help ensure that blockchain continues to evolve in the financial services industry and matures into a disruptor in other businesses. This paper identifies security implications and potential threats, and offers 10 recommendations for embedding security into blockchain transactions."
+      "summary": "Overcoming security questions about blockchain ecosystems will help ensure that blockchain continues to evolve in the financial services industry and matures into a disruptor in other businesses. This paper identifies security implications and potential threats, and offers 10 recommendations for embedding security into blockchain transactions.",
+      "coauthors": [{
+          "name": "Richard Archdeacon",
+          "url": "https://www.linkedin.com/in/richardarchdeacon/",
+          "label": "LinkedIn"
+        },
+        {
+            "name": "Faisal Siddiqi",
+            "url": "https://www.linkedin.com/in/fsiddiqi/",
+            "label": "LinkedIn"
+        },
+        {
+            "name": "Björn Obermeier",
+            "url": "https://www.linkedin.com/in/bobermeier/",
+            "label": "LinkedIn"
+        }
+      ]
     },
     {
       "name": "10 steps to securing the internet of things",
