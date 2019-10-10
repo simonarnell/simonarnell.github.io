@@ -198,7 +198,9 @@
           "label": "LinkedIn"
         },
         {
-          "name": "TM Ching"
+          "name": "TM Ching",
+          "url": "https://au.linkedin.com/in/timmengching",
+          "label": "LinkedIn"
         }
       ]
     },
@@ -407,7 +409,7 @@
       "reference": "PCT/US2015/047691",
       "description": "Examples relate to collecting domain name system traffic. In one example, a computing device may: receive, from a first intermediary network device, a DNS query packet that was sent by a client computing device operating on a private network, the DNS query packet specifying i) a query domain name, and ii) a source address that specifies the client computing device; store, in a data storage device, a query record specifying the query domain name and the source address specified by the DNS query packet; receive, from a second intermediary network device, a DNS response packet; determine that the DNS response packet specifies a response domain name that matches the query domain name; in response to the determination, extract, from the DNS response packet, a resolved address that corresponds to the response domain name; and store, in the query record, the resolved address specified by the DNS response packet.",
       "source": {
-        "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=US215888559"
+        "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017039602"
       },
       "type": "Patent",
       "coinventors": [{
@@ -499,7 +501,7 @@
     },
     {
       "name": "DYNAMICALLY ADJUSTING A MODEL FOR A SECURITY OPERATIONS CENTER",
-      "reference": "PCT/US2015/019968",
+      "reference": "US 10,325,092",
       "description": "Examples relate to dynamically adjusting a model for a security operations center (SOC). As such, the examples disclosed herein enable constructing a customer storage model over a set of time periods for a customer based on a set of resources of the SOC, a storage distribution model received from the customer related to expected usage of the set of resources, and a threat landscape for the customer. The customer storage model may be revised for a second time period based on actual storage use of the customer during a first time period, and a projection of an amount of data to be consumed in the second time period based on the threat landscape. Allocation of the resources in the SOC may be revised for the second time period based on the revision to the customer storage model.",
       "source": {
         "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016076909"
@@ -517,10 +519,11 @@
         }
       ],
       "assignee": {
-        "name": "Hewlett-Packard Development Company",
-        "url": "https://www.hp.com/"
+        "name": "Hewlett Packard Enterprise Development Company",
+        "url": "https://www.hpe.com/"
       },
-      "applicationDate": "2015-03-11"
+      "applicationDate": "2015-03-11",
+      "grantDate": "2019-06-18"
     },
     {
       "name": "REMEDIATING A SECURITY THREAT TO A NETWORK",
