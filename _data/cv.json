@@ -467,7 +467,7 @@
     },
     {
       "name": "NETWORK ANOMALY DETECTION",
-      "reference": "PCT/US2015/025454",
+      "reference": "US 10,686,814",
       "description": "Examples relate to detecting network anomalies. In one example, a computing device may: receive, from each of a plurality of packet capture devices of a private network, domain name system (DNS) query packets that were sent by a particular client computing device operating on the private network, each DNS query packet specifying i) a destination DNS server, ii) a query domain name, and iii) a source address that specifies the particular client computing device; provide at least one of the DNS query packets to a DNS traffic analyzer that is trained to identify DNS anomalies based on characteristics of the DNS query packets; receive anomaly output from the DNS traffic analyzer, the anomaly output indicating a DNS anomaly that was identified for the DNS query packets; and in response to receiving the anomaly output, provide a user device with data specifying the identified DNS anomaly.",
       "source": {
         "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016164050"
@@ -495,10 +495,11 @@
         }
       ],
       "assignee": {
-        "name": "Hewlett-Packard Development Company",
-        "url": "https://www.hp.com/"
+        "name": "Hewlett Packard Enterprise Development Company",
+        "url": "https://www.hpe.com/"
       },
-      "applicationDate": "2015-04-10"
+      "applicationDate": "2015-04-10",
+      "grantDate": "2020-06-16"
     },
     {
       "name": "DYNAMICALLY ADJUSTING A MODEL FOR A SECURITY OPERATIONS CENTER",
