@@ -432,7 +432,7 @@
     },
     {
       "name": "HANDLING NETWORK THREATS",
-      "reference": "PCT/US2015/061031",
+      "reference": "US 10,749,895",
       "description": "Examples relate to handling network threats. In one example, a computing device may: receive, from a threat detector, threat data associated with a particular network device included in a plurality of network devices; identify, based on the threat data, a particular analytics operation for assisting with remediation of a threat associated with the threat data; identify, based on the threat data, additional data for performing the particular analytics operation; cause reconfiguration of at least one of the plurality of network devices, the reconfiguration causing each of the reconfigured network devices to i) collect the additional data, and ii) provide the additional data to an analytics device; and receive, from the analytics device, particular analytics results of the particular analytics operation.",
       "source": {
         "url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017086928"
@@ -460,10 +460,11 @@
         }
       ],
       "assignee": {
-        "name": "Hewlett-Packard Development Company",
-        "url": "https://www.hp.com/"
+        "name": "Hewlett Packard Enterprise Development Company",
+        "url": "https://www.hpe.com/"
       },
-      "applicationDate": "2015-11-17"
+      "applicationDate": "2015-11-17",
+      "grantDate": "2020-08-18"
     },
     {
       "name": "NETWORK ANOMALY DETECTION",
