@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Simon Arnell",
-    "summary": "Experienced Chief Technologist with a demonstrated history of working in the information technology and security industries. Strong information security professional skilled in Security Architecture, Risk Management, Strategic Policy Decision Support and Research and Development (R&D).",
+    "summary": "Experienced technologist and entreprenuer with a strong bias for systems thinking and engineering. Experience incudes Security Architecture, Risk Management, Strategic Policy Decision Support and Research and Development (R&D).",
     "location": {
       "city": "Fleet",
       "countryCode": "UK",
@@ -36,24 +36,31 @@
   },
   "work": [{
       "company": "Configured Things",
+      "position": "Chief Operating Officer & Co-Founder",
+      "website": "https://configuredthings.com",
+      "startDate": "2021-04-01",
+      "summary": "I am the COO and Co-Founder at Configured Things, a startup specialising in enabling technologies for Smart Cities and the federated Internet of Things. Configured Things was a member of the 2018 GCHQ/NCSC Cyber Accelerator",
+      "highlights": []
+    },{
+      "company": "Configured Things",
       "position": "Founder and Non-Executive Director",
       "website": "https://configuredthings.com",
       "startDate": "2018-01-16",
-      "endDate": "",
-      "summary": "I am a co-founder and non-executive director at Configured Things, a member of the 2018 GCHQ/NCSC Cyber Accelerator",
+      "endDate": "2021-03-31",
+      "summary": "I was the co-founder and non-executive director at Configured Things, a startup specialising in enabling technologies for Smart Cities and the federated Internet of Things. Configured Things was a member of the 2018 GCHQ/NCSC Cyber Accelerator",
       "highlights": []
     },
     {
       "company": "DXC Technology",
-      "position": "Chief Technologist",
+      "position": "Chief Security Technologist",
       "website": "https://dxc.technology",
       "startDate": "2017-04-01",
-      "endDate": "",
-      "summary": "Following HPE Enterprise Services' 2017 spin-merge with CSC, my employer changed once again, it  became DXC Technology. I was initially responsible for mapping the various partnering relationships the legacy organisations maintained and understanding what was necessary for the new organisation. In this capacity I owned the New Technology Overview program, a horizon scanning service that reflected the shifting needs of the market and proposed partnerships that would allow DXC to capitalise on these changes, whilst match-making potential partners with salespeople with particular requirements.
-
-      I have authored many papers and spoken at a number of conferences at DXC to build out our market presence and I am responsible for our annual cyber security predictions report, a risk management level perspective with suggested mitigations for how to safely navigate one's business through a changing threat landscape.
-
-      In this role I am a frequent lecturer on the UK Ministry of Defence's Cyber Operations Awareness (Core) Course (COACC) taught at the Defence Academy in Shrivenham",
+      "endDate": "2021-03-31",
+      "summary": "
+      At DXC I was responsible for the EMEA Security CTO office. In this role I scouted for new security technologies that could assist DXC's clients in addressing their risks. I led customer POCs for SOAR projects, architected DXC's Zero Trust advisory service and built and ran DXC's Discovery Workshops. 
+      In addition, I was responsible for the annual cyber security predictions report, a risk management level perspective with suggested mitigations for how to safely navigate one's business through a changing threat landscape. I also have authored many papers and spoken at a number of conferences at DXC to build out our market presence.
+      Following HPE Enterprise Services' 2017 spin-merge with CSC, my employer changed once again, it became DXC Technology. I was initially responsible for mapping the various partnering relationships the legacy organisations maintained and understanding what was necessary for the new organisation. In this capacity I owned the New Technology Overview program, a horizon scanning service that reflected the shifting needs of the market and proposed partnerships that would allow DXC to capitalise on these changes, whilst match-making potential partners with salespeople with particular requirements.
+      ",
       "highlights": []
     },
     {
